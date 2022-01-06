@@ -2,6 +2,6 @@
 
 
 <div>
- <img src="tela2.png"/>
+ <img src="terla2.png"/>
  <img src="tela1.png"/>
 </div>
